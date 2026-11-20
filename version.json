@@ -1,0 +1,14 @@
+{
+  "versionCode": 17,
+  "versionName": "0.2.0",
+  "apkUrl": "",
+  "parts": [
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part00",
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part01",
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part02",
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part03",
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
+    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
+  ],
+  "notes": "新增应用自更新（家长中心检查更新）；家长 PIN 门静默失败修复"
+}
