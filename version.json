@@ -1,5 +1,5 @@
 {
-  "versionCode": 19,
+  "versionCode": 20,
   "versionName": "0.2.0",
   "apkUrl": "",
   "parts": [
@@ -10,5 +10,5 @@
     "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
     "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
   ],
-  "notes": "修复自更新安装确认被无障碍锁顶掉的问题；含家长控制总开关"
+  "notes": "首页布局优化（状态卡竖排、数据2x2网格）；新增资料tab接入 ChinaStudyFree 开源题库，可按单元导入题库"
 }
