@@ -1,14 +1,14 @@
 {
-  "versionCode": 22,
-  "versionName": "0.2.0",
-  "apkUrl": "",
-  "parts": [
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part00",
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part01",
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part02",
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part03",
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
-    "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
-  ],
-  "notes": "资料改走项目专属域名 study.toolerp.com（自有宝塔站点），fitlook 与 IP 保留为备用"
+ "versionCode": 24,
+ "versionName": "0.2.0",
+ "apkUrl": "",
+ "parts": [
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part00",
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part01",
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part02",
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part03",
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
+  "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
+ ],
+ "notes": "资料页新增课时学习：84册课本5077课时，题目可作答并带朗读/讲解音频，可看课本页图与故事图"
 }
