@@ -1,5 +1,5 @@
 {
-  "versionCode": 18,
+  "versionCode": 19,
   "versionName": "0.2.0",
   "apkUrl": "",
   "parts": [
@@ -10,5 +10,5 @@
     "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
     "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
   ],
-  "notes": "家长设置新增控制总开关：可彻底关掉 App 控制（不动系统权限），随时可再打开"
+  "notes": "修复自更新安装确认被无障碍锁顶掉的问题；含家长控制总开关"
 }
