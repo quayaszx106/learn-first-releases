@@ -1,5 +1,5 @@
 {
- "versionCode": 39,
+ "versionCode": 40,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "AI 辅导新增「编程小课堂」：机器人编程游戏 6 关（排指令、运行、撞墙提示、三星评价）、AI 提示按钮、编程小知识卡片问 AI 编程老师"
+ "notes": "修编程小课堂按钮排版：指令键改成图标在上文字在下的方块键，运行键整行大按钮，不再挤成竖排/溢出"
 }
