@@ -1,5 +1,5 @@
 {
- "versionCode": 29,
+ "versionCode": 32,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "闯关只出单选/多选/判断，填空和主观题不再进闯关（避免答对意思却被判低分卡关）"
+ "notes": "首页圆环改成今日正确率（当天全对就是100%，不再被早期答错拉低）；底部三个按钮改成图标在上、文字在下，不再竖排"
 }
