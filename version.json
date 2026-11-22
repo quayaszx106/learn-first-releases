@@ -1,5 +1,5 @@
 {
- "versionCode": 35,
+ "versionCode": 37,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "财经童话修排版重叠；新增税收、风险（共48篇故事）；每个概念故事后加3道小测验；朗读改为童声效果（提高音调）"
+ "notes": "新增 MBA 童话（36篇+36题）和名校童话（哈佛/麻省理工/斯坦福课程，36篇+36题）；所有故事打开自动朗读；朗读音调改回自然（变调版难听已去掉）。注：36 号构建失败未发布，直接从 35 跳到 37"
 }
