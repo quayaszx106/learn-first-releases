@@ -1,5 +1,5 @@
 {
- "versionCode": 37,
+ "versionCode": 38,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "新增 MBA 童话（36篇+36题）和名校童话（哈佛/麻省理工/斯坦福课程，36篇+36题）；所有故事打开自动朗读；朗读音调改回自然（变调版难听已去掉）。注：36 号构建失败未发布，直接从 35 跳到 37"
+ "notes": "故事页改版：正文区自己滚动，「听故事/停止」和「再讲一个」做成悬浮条常驻底部，不用拉到页底"
 }
