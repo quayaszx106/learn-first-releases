@@ -1,5 +1,5 @@
 {
- "versionCode": 32,
+ "versionCode": 33,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "首页圆环改成今日正确率（当天全对就是100%，不再被早期答错拉低）；底部三个按钮改成图标在上、文字在下，不再竖排"
+ "notes": "资料页新增「AI 财经童话」：14 个财经概念按孩子年龄生成童话故事，可朗读、可换一个再讲，讲过的自动存下来"
 }
