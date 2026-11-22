@@ -1,5 +1,5 @@
 {
- "versionCode": 25,
+ "versionCode": 26,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "修复课时页打不开（灰屏）：选项朗读数据是每个选项一条音频，改为逐个选项的小喇叭按钮"
+ "notes": "首页顶部排版重排：标题/状态分行、小目标整行、正确率圆环缩小"
 }
