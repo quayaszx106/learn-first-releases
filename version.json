@@ -1,5 +1,5 @@
 {
- "versionCode": 41,
+ "versionCode": 43,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "编程小课堂指令改成方向键：向上/向下/向左/向右，点哪个方向走哪边；每关三星步数已按新走法重算"
+ "notes": "编程小课堂两处修复：撞墙/撞边只跳过那一步，后面的指令继续执行（之前一撞整段停，向下就没跑）；前几关起点离开底边，向下从第一关就能用"
 }
