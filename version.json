@@ -1,5 +1,5 @@
 {
- "versionCode": 28,
+ "versionCode": 29,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "电视遥控挪到首页：孩子完成任务解锁后可自己开电视、调音量（电源码在家长中心选）"
+ "notes": "闯关只出单选/多选/判断，填空和主观题不再进闯关（避免答对意思却被判低分卡关）"
 }
