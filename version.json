@@ -1,5 +1,5 @@
 {
- "versionCode": 40,
+ "versionCode": 41,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "修编程小课堂按钮排版：指令键改成图标在上文字在下的方块键，运行键整行大按钮，不再挤成竖排/溢出"
+ "notes": "编程小课堂指令改成方向键：向上/向下/向左/向右，点哪个方向走哪边；每关三星步数已按新走法重算"
 }
