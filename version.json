@@ -1,5 +1,5 @@
 {
- "versionCode": 27,
+ "versionCode": 28,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "家长中心新增电视遥控（红外，小米电视）：电源双候选码试码、音量/静音/方向键"
+ "notes": "电视遥控挪到首页：孩子完成任务解锁后可自己开电视、调音量（电源码在家长中心选）"
 }
