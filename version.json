@@ -1,5 +1,5 @@
 {
- "versionCode": 34,
+ "versionCode": 35,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "AI 财经童话的 42 篇故事已全部内置（14 个概念 × 3 个年龄段），点开直接看、直接听，不用等 AI 生成"
+ "notes": "财经童话修排版重叠；新增税收、风险（共48篇故事）；每个概念故事后加3道小测验；朗读改为童声效果（提高音调）"
 }
