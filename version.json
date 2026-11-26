@@ -1,5 +1,5 @@
 {
- "versionCode": 43,
+ "versionCode": 45,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "编程小课堂两处修复：撞墙/撞边只跳过那一步，后面的指令继续执行（之前一撞整段停，向下就没跑）；前几关起点离开底边，向下从第一关就能用"
+ "notes": "修小米两个问题：故事自动朗读（自动换带中文的语音引擎、引擎没就绪先存待播）；点开故事不再误报未配置 AI Key（等内置故事加载完再判断）"
 }
