@@ -1,5 +1,5 @@
 {
- "versionCode": 47,
+ "versionCode": 48,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "修切换童话栏目后故事找不到（误报未配置 AI Key）：每个栏目独立加载自己的故事；朗读失败时界面会显示原因（如没有中文语音引擎）"
+ "notes": "资料页去掉「资料托管在你自己的服务器上」那句；课时学习加服务器 IP 备用地址（域名解析不了时自动走 IP），报错改人话加重试按钮"
 }
