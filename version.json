@@ -1,5 +1,5 @@
 {
- "versionCode": 48,
+ "versionCode": 49,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "资料页去掉「资料托管在你自己的服务器上」那句；课时学习加服务器 IP 备用地址（域名解析不了时自动走 IP），报错改人话加重试按钮"
+ "notes": "财经童话支持后台每日新故事：打开栏目自动拉取合并，新概念变成新卡片（首批：信用卡、工资）"
 }
