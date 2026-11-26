@@ -1,5 +1,5 @@
 {
- "versionCode": 45,
+ "versionCode": 47,
  "versionName": "0.2.0",
  "apkUrl": "",
  "parts": [
@@ -10,5 +10,5 @@
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part04",
   "https://raw.githubusercontent.com/quayaszx106/learn-first-releases/main/app-release.apk.part05"
  ],
- "notes": "修小米两个问题：故事自动朗读（自动换带中文的语音引擎、引擎没就绪先存待播）；点开故事不再误报未配置 AI Key（等内置故事加载完再判断）"
+ "notes": "修切换童话栏目后故事找不到（误报未配置 AI Key）：每个栏目独立加载自己的故事；朗读失败时界面会显示原因（如没有中文语音引擎）"
 }
